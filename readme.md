@@ -5,3 +5,6 @@ Saya mengambil studi kasus ini karena cukup cukup banyak siswa lulusan SMA/SMK/M
 
 # SYARAT LOLOS UTBK
 NILAI UJIAN UTBK >= 700
+
+## FLOWCHART PENERIMAAN MAHASISWA BARU JALUR UTBK
+![flowchart](flowchart.png)
